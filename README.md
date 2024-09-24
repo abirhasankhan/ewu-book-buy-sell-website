@@ -1,8 +1,5 @@
 # East West University Book Buy and Sell Website
 
-![Logo](path/to/logo.png)  <!-- Replace with your logo path -->
-![Homepage Screenshot](path/to/homepage-screenshot.png)  <!-- Replace with your homepage screenshot path -->
-
 ## About the Project
 The East West University Book Buy and Sell Website is a dedicated platform for university students to buy and sell used books. This website provides a secure and user-friendly environment where students can register, verify their accounts, list their used books for sale, and manage their book-related activities.
 
@@ -53,3 +50,11 @@ The East West University Book Buy and Sell Website is a dedicated platform for u
    First, clone the repository to your local machine using the following command:
    ```bash
    git clone https://github.com/yourusername/east-west-university-book-buy-sell.git
+
+### Screenshots
+![User View 1](images/01.PNG)
+![User View 2](images/02.PNG)
+![User View 3](images/03.PNG)
+![User View 4](images/04.PNG)
+![User View 5](images/05.PNG)
+![User View 6](images/06.PNG)
