@@ -10,7 +10,7 @@ The East West University Book Buy and Sell Website is a dedicated platform for u
 - **Book Search**: A search feature allows users to find available books quickly.
 - **Request System**: Users can request books that are not currently listed, and other users can fulfill those requests.
 - **Notification System**: Users receive notifications regarding their requests and updates on their listings.
-- **Profile Management**: Users can view and update their profiles, including their listed books.
+- **Profile Management**: Users can view profiles, including their listed books.
 - **Request Page**: Users can view and manage book requests from other users.
 
 ## Technologies Used
